@@ -1,0 +1,28 @@
+Prerequisits: 
+    Javascript
+    ES5 and ES6
+
+This course assumes that you already aware of es5 and es6.
+ES2017 is unofficially called as ES8.
+
+
+Difference between Javascript and ECMAScript
+1. Javascript was created by Brendan Eich, in 
+2. Javascript was named as ECMA as a standard to remove the vendor specific features wars
+    ES is teh standard that guide the path of JavaScript.
+    Every year a new version of ECMAScript is released, ES2015, ES2016 and ES2017
+
+The most of the features are supported in the latest version of Nodejs and Latest version of Chrome.
+However you may not always have the luxury to use the latest and greatest.
+Therefore you need to go with Transpilers and Pollyfills in such scenarios.
+ -Nodebase tools - babel-Pollyfill
+ 
+
+Nodejs Compatibility: https://node.green/#ES2017
+For Browser Compatibility: https://kangax.github.io/compat-table/esnext/
+
+https://github.com/tc39/proposals - Tracking ECMAScript Proposals
+
+
+
+
