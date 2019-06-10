@@ -1,0 +1,20 @@
+{
+  "name": "data-structure-in-js",
+  "version": "1.0.0",
+  "description": "Data structure in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "data-structures"
+  ],
+  "author": "Bikram Kishore Kundu",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "lite-server": "^2.5.3"
+  }
+}

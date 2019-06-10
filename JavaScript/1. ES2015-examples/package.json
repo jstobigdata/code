@@ -1,0 +1,26 @@
+{
+  "name": "es2015-examples",
+  "version": "1.0.0",
+  "description": "Learn ES2015 (ES6) with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test script specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstobigdata/code.git"
+  },
+  "keywords": [
+    "lite-server"
+  ],
+  "author": "Bikram K. Kundu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstobigdata/code/issues"
+  },
+  "homepage": "https://github.com/jstobigdata/code#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
